@@ -1,0 +1,19 @@
+root_dir  = "/"
+cache_dir = "/var/cache/quark"
+
+[sources.native]
+enabled = false
+mirror  = "https://repo.neutronlinux.org"
+
+[sources.arch]
+enabled = true
+mirror  = "https://geo.mirror.pkgbuild.com"
+repos   = ["core", "extra"]
+arch    = "x86_64"
+
+[sources.debian]
+enabled    = true
+mirror     = "http://deb.debian.org/debian"
+suite      = "bookworm"
+components = ["main"]
+arch       = "amd64"
