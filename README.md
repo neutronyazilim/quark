@@ -311,6 +311,12 @@ quark :u --config quark.conf.example
   zaman damgası tutuyor; bir rollback mekanizması bunu ve dosya
   içeriklerinin bir önceki sürümünü (şu an tutulmuyor) gerektirir.
 
+## Ekip ve Katkıda Bulunanlar
+
+- [tuxdevv](https://github.com/tuxdevv)
+- [Patri0n](https://github.com/Patri0n)
+- [Neutron Yazılım Topluluğu](https://github.com/neutronyazilim)
+
 ## Lisans
 
 GPLv3 — bkz. [LICENSE](LICENSE). Türevler de açık kaynak kalmak zorunda.
