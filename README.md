@@ -313,7 +313,7 @@ quark :u --config quark.conf.example
 
 ## Ekip ve Katkıda Bulunanlar
 
-- [tuxdevv](https://github.com/tuxdevv)
+- [naevui](https://github.com/naevui)
 - [Patri0n](https://github.com/Patri0n)
 - [Neutron Yazılım Topluluğu](https://github.com/neutronyazilim)
 
